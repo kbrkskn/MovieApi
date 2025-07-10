@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "Breaking Bad",
+    "coverImageUrl": "https://example.com/images/breakingbad.jpg",
+    "rating": 9.5,
+    "description": "Kimya öğretmeni Walter White, ölümcül bir hastalıkla yüzleşirken ailesine para bırakmak için uyuşturucu üretmeye başlar. Zamanla karanlık dünyaya adım atar.",
+    "duration": 47,
+    "releaseDate": "2008-01-20T00:00:00",
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Game of Thrones",
+    "coverImageUrl": "https://example.com/images/got.jpg",
+    "rating": 9.3,
+    "description": "Westeros’un tahtı için büyük hanedanlar arasında geçen güç savaşları, entrika, ihanet ve efsanelerle dolu bir destanı anlatır. Ejderhalar, krallar ve kahramanlar...",
+    "duration": 57,
+    "releaseDate": "2011-04-17T00:00:00",
+    "createdYear": "2011",
+    "status": true
+  },
+  {
+    "title": "The Office",
+    "coverImageUrl": "https://example.com/images/theoffice.jpg",
+    "rating": 8.9,
+    "description": "Scranton'daki bir kağıt şirketinde geçen bu mizah dolu belgesel tarzı dizi, absürt yöneticiler, tuhaf çalışanlar ve ofis içi ilişkileri konu alır.",
+    "duration": 22,
+    "releaseDate": "2005-03-24T00:00:00",
+    "createdYear": "2005",
+    "status": true
+  },
+  {
+    "title": "Stranger Things",
+    "coverImageUrl": "https://example.com/images/strangerthings.jpg",
+    "rating": 8.7,
+    "description": "1980'lerin Amerika’sında bir çocuk kaybolur. Ardından doğaüstü güçlere sahip bir kız ortaya çıkar ve paralel evrenin kapıları aralanır.",
+    "duration": 51,
+    "releaseDate": "2016-07-15T00:00:00",
+    "createdYear": "2016",
+    "status": true
+  },
+  {
+    "title": "Chernobyl",
+    "coverImageUrl": "https://example.com/images/chernobyl.jpg",
+    "rating": 9.4,
+    "description": "1986'daki Çernobil nükleer faciasını ve sonrasında yaşananları çarpıcı bir gerçekçilikle anlatan mini dizi, insan hatasının sonuçlarını gözler önüne serer.",
+    "duration": 65,
+    "releaseDate": "2019-05-06T00:00:00",
+    "createdYear": "2019",
+    "status": true
+  },
+  {
+    "title": "The Crown",
+    "coverImageUrl": "https://example.com/images/thecrown.jpg",
+    "rating": 8.6,
+    "description": "İngiltere Kraliçesi II. Elizabeth’in tahta çıkışından itibaren yaşadığı politik ve kişisel gelişim süreci tarihi olaylarla harmanlanarak işlenir.",
+    "duration": 58,
+    "releaseDate": "2016-11-04T00:00:00",
+    "createdYear": "2016",
+    "status": true
+  },
+  {
+    "title": "Peaky Blinders",
+    "coverImageUrl": "https://example.com/images/peakyblinders.jpg",
+    "rating": 8.8,
+    "description": "Birinci Dünya Savaşı sonrası Birmingham'da suç çetesi Peaky Blinders'ın yükselişi ve liderleri Thomas Shelby'nin etkileyici hikayesi anlatılır.",
+    "duration": 55,
+    "releaseDate": "2013-09-12T00:00:00",
+    "createdYear": "2013",
+    "status": true
+  },
+  {
+    "title": "Black Mirror",
+    "coverImageUrl": "https://example.com/images/blackmirror.jpg",
+    "rating": 8.8,
+    "description": "Teknolojinin karanlık yönlerini distopik hikâyelerle anlatan dizi, her bölümünde farklı bir senaryo ve çarpıcı mesajlar sunar.",
+    "duration": 60,
+    "releaseDate": "2011-12-04T00:00:00",
+    "createdYear": "2011",
+    "status": true
+  },
+  {
+    "title": "Sherlock",
+    "coverImageUrl": "https://example.com/images/sherlock.jpg",
+    "rating": 9.1,
+    "description": "Arthur Conan Doyle’un klasik karakteri Sherlock Holmes’un modern Londra’daki versiyonu. Akıl dolu cinayet çözümleri ve dostluk üzerine bir hikâye.",
+    "duration": 90,
+    "releaseDate": "2010-07-25T00:00:00",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "Dark",
+    "coverImageUrl": "https://example.com/images/dark.jpg",
+    "rating": 8.7,
+    "description": "Almanya'daki küçük bir kasabada çocukların kaybolmasıyla başlayan hikâye, zaman yolculuğu ve aile sırlarıyla karmaşık bir yapboza dönüşür.",
+    "duration": 60,
+    "releaseDate": "2017-12-01T00:00:00",
+    "createdYear": "2017",
+    "status": true
+  }
+]

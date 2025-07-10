@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "The Shawshank Redemption",
+    "coverImageUrl": "https://example.com/images/shawshank.jpg",
+    "rating": 9.3,
+    "description": "Andy Dufresne, karısını öldürmediğini iddia etse de ömür boyu hapis cezasına çarptırılır. Shawshank hapishanesinde yıllar süren bir dostluk ve umudun hikâyesi başlar.",
+    "duration": 142,
+    "releaseDate": "1994-09-23T00:00:00",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Godfather",
+    "coverImageUrl": "https://example.com/images/godfather.jpg",
+    "rating": 9.2,
+    "description": "Corleone ailesinin başı Vito Corleone'nin güç ve sadakat üzerine kurulu suç imparatorluğu, ailenin genç oğlu Michael için beklenmedik bir mirasa dönüşür.",
+    "duration": 175,
+    "releaseDate": "1972-03-24T00:00:00",
+    "createdYear": "1972",
+    "status": true
+  },
+  {
+    "title": "Inception",
+    "coverImageUrl": "https://example.com/images/inception.jpg",
+    "rating": 8.8,
+    "description": "Bir rüya hırsızı olan Dom Cobb, insanların bilinçaltına girerek sır çalabilir. Ancak bu seferki görev, bir fikri yerleştirmektir. Gerçek ve hayal iç içe geçer.",
+    "duration": 148,
+    "releaseDate": "2010-07-16T00:00:00",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "Forrest Gump",
+    "coverImageUrl": "https://example.com/images/forrest.jpg",
+    "rating": 8.8,
+    "description": "Zeka seviyesi düşük olan Forrest, hayatı boyunca tesadüflerle tarihi olaylara karışır. Sevgi, sadakat ve azmin dokunaklı bir portresi.",
+    "duration": 142,
+    "releaseDate": "1994-07-06T00:00:00",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Matrix",
+    "coverImageUrl": "https://example.com/images/matrix.jpg",
+    "rating": 8.7,
+    "description": "Neo, gerçek dünyanın bir simülasyon olduğunu keşfeder ve insanlığı kurtarmak için makinelere karşı direnişe katılır. Felsefe ve aksiyon bir arada.",
+    "duration": 136,
+    "releaseDate": "1999-03-31T00:00:00",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "Interstellar",
+    "coverImageUrl": "https://example.com/images/interstellar.jpg",
+    "rating": 8.6,
+    "description": "Dünya yok olmanın eşiğindedir. Bir grup bilim insanı, insanlık için yeni bir yuva arayışında uzayın derinliklerine yolculuk eder.",
+    "duration": 169,
+    "releaseDate": "2014-11-07T00:00:00",
+    "createdYear": "2014",
+    "status": true
+  },
+  {
+    "title": "Fight Club",
+    "coverImageUrl": "https://example.com/images/fightclub.jpg",
+    "rating": 8.8,
+    "description": "Anlamsızlıktan bunalan bir adam, Tyler Durden adında gizemli biriyle tanışır ve yer altı dövüş kulübü kurarlar. Gerçeklik ve kimlik sorgulanır.",
+    "duration": 139,
+    "releaseDate": "1999-10-15T00:00:00",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "The Dark Knight",
+    "coverImageUrl": "https://example.com/images/darkknight.jpg",
+    "rating": 9.0,
+    "description": "Batman, Gotham'ı anarşinin eşiğine getiren Joker ile karşı karşıya gelir. Ahlak, adalet ve fedakarlık sınavı.",
+    "duration": 152,
+    "releaseDate": "2008-07-18T00:00:00",
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Pulp Fiction",
+    "coverImageUrl": "https://example.com/images/pulpfiction.jpg",
+    "rating": 8.9,
+    "description": "Birbirinden bağımsız gibi görünen olaylar, gangsterler, boksörler ve suç dünyasındaki karakterlerle iç içe geçer. Tarantino'nun kült eseri.",
+    "duration": 154,
+    "releaseDate": "1994-10-14T00:00:00",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Gladiator",
+    "coverImageUrl": "https://example.com/images/gladiator.jpg",
+    "rating": 8.5,
+    "description": "General Maximus, ailesinin öldürülmesiyle Roma'ya karşı kin güder. Arenada gladyatör olarak yükselirken intikam için savaşır.",
+    "duration": 155,
+    "releaseDate": "2000-05-05T00:00:00",
+    "createdYear": "2000",
+    "status": true
+  }
+]
